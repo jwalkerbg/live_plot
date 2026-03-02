@@ -9,9 +9,7 @@ to (example)
     window = LivePlot(use_dummy=False, com_port="COM5", baud=115200)
 
 here
-# ============================================================
-# MAIN
-# ============================================================
+
 def main():
     app = QtWidgets.QApplication(sys.argv)
 
