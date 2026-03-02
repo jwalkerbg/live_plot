@@ -10,6 +10,7 @@ to (example)
 
 here
 
+```
 def main():
     app = QtWidgets.QApplication(sys.argv)
 
@@ -18,3 +19,4 @@ def main():
     window.show()
 
     sys.exit(app.exec_())
+```	
