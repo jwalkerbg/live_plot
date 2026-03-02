@@ -1,6 +1,7 @@
 Visualizing live data
 
-This script gives an idea how to get the things working
+This script gives an idea how to get the things working.
+
 By default, dumy serial port is used as data generator.
 
 To use real serial port change
